@@ -30,6 +30,3 @@ Upload all files and folders while preserving the structure:
 - `contact.html`
 - `assets/css/style.css`
 - `assets/js/script.js`
-
-## Note
-The property names, prices, phone number, email, and project descriptions are demo portfolio content. Replace them with real client/business information before commercial use.
